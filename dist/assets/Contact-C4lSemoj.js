@@ -1,0 +1,1 @@
+import{j as s}from"./utils-CduHBuzk.js";import"./vendor-9mwbaf1v.js";const a=()=>s.jsx("section",{id:"contact",className:"py-20 bg-black",children:s.jsx("div",{className:"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"})});export{a as default};
